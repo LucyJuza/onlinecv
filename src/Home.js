@@ -1,6 +1,5 @@
 import './App.css';
-import Skills from './Skills';
-import { Route, Switch, Redirect, Link, BrowserRouter } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import logo from './logo.svg';
 
 function Home() {
