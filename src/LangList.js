@@ -8,10 +8,10 @@ const langSet = [
     "text":"Ma langue natale est le français, c'est avec celle-ci que j'ai été elevé et avec laquelle j'ai suivi mon cursus scolaire."},
     {"name":"english",
     "fullName":"Anglais",
-    "text":"Je suis bilingue en anglais, me permettant une collaboration active avec des anglophones natifs ou la lecture rapide de textes en anglais, très utile pour la lecture de documentations et la recherches de solutions pour des erreurs informatiques."},
+    "text":"I am fluent in English as well, allowing me to actively collaborate with native English speakers, as well as the quick reading of English texts and documentations which is a huge help in the development and IT world."},
     {"name":"german",
     "fullName":"Allemand",
-    "text":"J'ai obtenu ma maturité profesionnelle d'allemand (équivalent B2) et peut me débrouiller à l'oral bien que cela soit problématique dans le cas du suisse-allemand et autres dialectes car il ne s'agit plus du tout de la même langue."}]
+    "text":"Ich habe die Berufsmatura in Deutsch (B2-Äquivalent) absolviert und kann mich mündlich verständigen, auch wenn dies im Falle von Schweizerdeutsch und anderen Dialekten problematisch ist, da es sich nicht mehr um dieselbe Sprache handelt."}]
 
 export default class LangList extends react.Component{
     loadImage = imageName => (images(`./${imageName}`).default)

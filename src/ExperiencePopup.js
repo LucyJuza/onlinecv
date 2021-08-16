@@ -17,7 +17,7 @@ export default class Popup extends React.Component {
                     
                     {this.props.reco ? 
                         <div>
-                            <h3>Recomendation du responsable</h3>
+                            <h3>Recommandation du responsable</h3>
                             <p class="popupReco">{this.props.reco}</p>
                         </div>
                     : null}
