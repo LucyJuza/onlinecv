@@ -70,3 +70,8 @@ body{
   color: rgba(255, 255, 255, 0.548);
   font-size: 12px;
 }
+@media screen and (max-width: 800px) {
+  .intro #fleche{
+    height: 10vmin;
+  }
+}

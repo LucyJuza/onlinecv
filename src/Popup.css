@@ -70,9 +70,18 @@
 
 
 
-
+@media screen and (max-width: 1450px) {
+    .popup_inner{
+        left: 10%;
+        right: 10%;
+    }
+}
 /*800*/
 @media screen and (max-width: 800px) {
+    .popup_inner{
+        top: 30%;
+        bottom: 30%;    
+    }
     .popupHead{
         height: 7vmin;
     }
@@ -81,10 +90,21 @@
     }
 }
 @media screen and (max-width: 500px) {
+    .popup_inner{
+        left: 5%;
+        right: 5%;
+        top: 35%;
+        bottom: 35%;
+    }
     .popupHead{
         height: 8vmin;
     }
     .popupBody{
         max-height: calc(100% - 8vmin);
+    }
+}
+@media screen and (max-height: 500px) {
+    .popupHead{
+        height: 8vmin;
     }
 }

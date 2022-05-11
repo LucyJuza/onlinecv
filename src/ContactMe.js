@@ -1,11 +1,9 @@
 import './Contact.css'
-import linkedin from './svgs/linkedin.svg'
-import github from './svgs/github.svg'
 function ContactMe() {
     return (
         <div>
           <div className="contact">
-                <h1>Alors contactez moi!</h1>
+                <h1>Alors contactez-moi!</h1>
                 <div className="contLink">
                     <div class="lnkEl"><a target="_blank" rel="noreferrer" href="https://linkedin.com/in/noé-juzan-a3aa88210"><img src={'./svgs/linkedin.svg'} alt="linkedin"/></a></div>
                     <div class="lnkEl"><a target="_blank" rel="noreferrer" href="https://github.com/NoeJuza"><img src={'./svgs/github.svg'} alt="github"/></a></div>
