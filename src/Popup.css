@@ -1,4 +1,3 @@
-
 .popup {
     position: fixed;
     width: 100%;
@@ -13,7 +12,15 @@
     animation-duration: 0.5s;
     animation-name: appear;
 }
-  .popup_inner {
+.popupCloseDiv{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    cursor: pointer;
+}
+.popup_inner {
+    z-index: 3;
     position: absolute;
     max-height: 100%;
     left: 25%;

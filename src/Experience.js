@@ -1,10 +1,8 @@
 import react from "react";
 import Popup from "./ExperiencePopup";
-const images = require.context('./svgs',true)
 
 
 export default class Lang extends react.Component{
-    loadImage = imageName => (images(`./${imageName}`).default)
 
     constructor(props){
         super(props)
@@ -22,7 +20,7 @@ export default class Lang extends react.Component{
     }
     render(){
         return <div className="expEl">
-            <img onClick={this.togglePopup.bind(this)} src={this.loadImage(this.name + ".svg")} alt={this.name}/>
+            <img onClick={this.togglePopup.bind(this)} src={"./svgs/" + this.name + ".svg"} alt={this.name}/>
             {this.state.showPopup ? 
                 <Popup
                 title={this.title}

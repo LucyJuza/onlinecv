@@ -1,10 +1,7 @@
-import react from "react";
+import React from "react";
 import Popup from "./Popup";
-const images = require.context('./svgs',true)
 
-export default class Skill extends react.Component{
-    loadImage = imageName => (images(`./${imageName}`).default)
-
+export default class Skill extends React.Component{
     constructor(props){
         super(props)
         this.name = props.name
@@ -21,7 +18,7 @@ export default class Skill extends react.Component{
     }
     render(){
         return <div className="compEl">
-            <img onClick={this.togglePopup.bind(this)} src={this.loadImage(this.name + ".svg")} alt={this.name} />
+            <img onClick={this.togglePopup.bind(this)} key={this.name} src={"./svgs/" +this.name + ".svg"} alt={this.name} />
             {this.state.showPopup ? 
                 <Popup
                 title={this.title}

@@ -1,7 +1,6 @@
 import react from "react";
 import Lang from "./Lang";
 
-const images = require.context('./svgs',true)
 const langSet = [
     {"name":"french",
     "fullName":"Français",
@@ -14,7 +13,6 @@ const langSet = [
     "text":"Ich habe die Berufsmatura in Deutsch (B2-Äquivalent) absolviert und kann mich mündlich verständigen, auch wenn dies im Falle von Schweizerdeutsch und anderen Dialekten problematisch ist, da es sich nicht mehr um dieselbe Sprache handelt."}]
 
 export default class LangList extends react.Component{
-    loadImage = imageName => (images(`./${imageName}`).default)
 
     constructor(props){
         super(props)

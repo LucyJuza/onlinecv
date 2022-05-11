@@ -1,6 +1,6 @@
 import react from "react";
 import Skill from "./Skill";
-const images = require.context('./svgs',true)
+
 const skillSet = [
     {"name":"html",
     "fullName":"HTML",
@@ -39,7 +39,6 @@ const skillSet = [
     "fullName":"API REST",
     "text":"Je suis capable de créer et d'utiliser des API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...)."}]
 export default class SkillList extends react.Component{
-    loadImage = imageName => (images(`./${imageName}`).default)
 
     constructor(props){
         super(props)
@@ -47,7 +46,7 @@ export default class SkillList extends react.Component{
         this.skillList = []
         this.src = './svgs/'+ this.name
         skillSet.forEach((skill) =>{
-            this.skillList.push(<Skill name={skill.name} title={skill.fullName} text={skill.text}/>)
+            this.skillList.push(<Skill key={skill.name} name={skill.name} title={skill.fullName} text={skill.text}/>)
         })
     }
     render(){
