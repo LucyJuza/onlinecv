@@ -11,7 +11,7 @@ import ContactMe from './ContactMe'
 function App() {
   return (
     <div className="App">
-      <span class="tip">Conseil: certains éléments sont interactifs (clic dessus)</span>
+      <span className="tip">Conseil: certains éléments sont interactifs (clic dessus)</span>
         <Redirect to="/home"/>
         <Route path="/home" component={Home} />
         <Route path="/skills" component={Skills} />

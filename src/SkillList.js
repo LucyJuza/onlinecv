@@ -46,7 +46,7 @@ export default class SkillList extends react.Component{
         this.skillList = []
         this.src = './svgs/'+ this.name
         skillSet.forEach((skill) =>{
-            this.skillList.push(<Skill key={skill.name} name={skill.name} title={skill.fullName} text={skill.text}/>)
+            this.skillList.push(<div className="skillWrap"><Skill key={skill.name} name={skill.name} title={skill.fullName} text={skill.text}/></div>)
         })
     }
     render(){
