@@ -1,0 +1,99 @@
+[
+    {"name":"html",
+    "fullName":{
+        "fr":"HTML",
+        "en":"HTML",
+        "de":"HTML"
+        },
+    "text":{
+        "fr":"Je suis capable de réaliser le \"corps\" et l'architecture d'un site web avec la technologie HTML (Maîtrise du DOM et des balises).",
+        "en":"I am able to make the \"body\" and the architecture of a website with HTML technology (mastery of DOM and tags).",
+        "de":"Ich kann den \"Körper\" und die Architektur einer Website mit HTML-Technologie (Meisterschaft von DOM und Tags) herstellen."
+        }
+    },
+    {"name":"css",
+    "fullName":{
+        "fr":"CSS",
+        "en":"CSS",
+        "de":"CSS"
+        },
+    "text":{
+        "fr":"Je suis capable d'ajouter des éléments de design à une page web au travers de la technologie CSS, Je suis aussi capable de concevoir un site de sorte qu’il soit \"responsive\" (adaptatif) sur tous les supports (PC, mobile, tablette)",
+        "en":"I am able to add design elements to a web page through CSS technology, I am also able to design a site so that it is responsive on all supports (PC, mobile, tablet)",
+        "de":"Ich kann eine Webseite über die CSS -Technologie Designelemente hinzufügen. Ich kann auch eine Site so entwerfen, dass sie auf allen Unterstützung (PC, Mobile, Tablet) \"responsive\" (adaptiv) ist."
+        }
+    },
+    {"name":"js",
+    "fullName": {
+        "fr":"JavaScript",
+        "en":"JavaScript",
+        "de":"JavaScript"
+    },
+    "text":{
+        "fr":"Je suis capable d'ajouter des éléments de dynamisme à une page web au travers de la technologie JavaScript. Je suis aussi capable d'implémenter les frameworks et librairies communes du web (ce site est d'ailleurs réalisé avec ReactJS). (Front End)",
+        "en":"I am able to add elements of dynamism to a web page through JavaScript technology. I am also able to implement the common web frameworks and libs (this site is also carried out with Reactjs). (End Front)",
+        "de":"Ich kann einer Webseite über JavaScript -Technologie Elemente der Dynamik zu einer Webseite hinzufügen. Ich kann auch die gemeinsamen Webrahmen und Buchhandlungen implementieren (diese Website wird auch mit ReactJs durchgeführt). (Ende vorne)"
+        }
+    },
+    {"name":"nodejs",
+    "fullName":{
+        "fr":"Node.js",
+        "en":"Node.js",
+        "de":"Node.js"
+    },
+    "text":{
+        "fr":"Je suis capable de créer des serveurs web et des API ainsi que servir du contenu avec la technologie Node.js. (Back end)",
+        "en":"I am able to create web servers and APIs as well as serve content with Node.js. (Back end)",
+        "de":"Ich kann Webserver und APIs erstellen und Inhalte mit Node.js. servieren. (Back End)"
+        }
+    },
+    {"name":"docker",
+    "fullName":{
+        "fr":"Docker / Conteneurs",
+        "en":"Docker / Containers",
+        "de":"Docker / Behälter"
+    },
+    "text":{
+        "fr":"Je suis capable d'utiliser l'utilitaire Docker pour créer des conteneurs de mes applications ou adapter des applications ou des solutions existantes en version conteneurisée. Je suis aussi capable d'orchestrer l'inter-connectivité de ces conteneurs ensemble (docker-compose).",
+        "en":"I am able to use the Docker utility to create containers of my applications or adapt existing applications or solutions in containerized version. I am also capable of orchestrating the interconnectivity of these containers together (Docker-compose).",
+        "de":"Ich kann das Docker-Dienstprogramm verwenden, um Container meiner Anwendungen zu erstellen oder vorhandene Anwendungen oder Lösungen in Containerversion anzupassen. Ich bin auch in der Lage, die Interkonnektivität dieser Container zusammen zu orchestrieren (Docker-Compose)."
+        }},
+    {"name":"nodered",
+    "fullName":{
+        "fr":"Node-RED",
+        "en":"Node-RED",
+        "de":"Node-RED"
+    },
+    "text":{
+        "fr":"Je suis capable de créer des \"Flows\" de traitement avec Node-RED. Je suis aussi capable de créer des tableaux de bord avec des formulaires interactifs.",
+        "en":"I am able to create \"flows\" treatment with Node-Red. I am also able to create dashboards with interactive forms.",
+        "de":"Ich kann \"Flows\"-Behandlung mit Node-Rot erstellen. Ich kann auch Dashboards mit interaktiven Formen erstellen."
+    }},
+    {"name":"linux",
+    "fullName":{
+        "fr":"Administration Linux",
+        "en":"Linux Administration",
+        "de":"Linux-Administration"
+    },
+    "text":{
+        "fr":"Je suis capable de réaliser des tâches d'administration sur des environnements Linux (plus familier avec les distributions type \"Debian\"). Je suis aussi capable d'installer des distributions sur du matériel informatique.",
+        "en":"",
+        "de":""
+    }
+    },
+    {"name":"mongo",
+    "fullName":"MongoDB",
+    "text":"Je suis capable de mettre en place et d'intéragir avec une base de données MongoDB."},
+    {"name":"nutanix",
+    "fullName":"Nutanix",
+    "text":"Je suis capable de mettre en place et d'administrer un ou plusieurs clusters Nutanix AOS."},
+    {"name":"sql",
+    "fullName":"SQL",
+    "text":"Je suis capable de réaliser des requêtes sur une base de données grâce à SQL."},
+    {"name":"git",
+    "fullName":"Git",
+    "text":"Je suis capable de collaborer avec d'autres dévelopeurs grâce à Git, GitHub et GitLAB."},
+    {"name":"rest",
+    "fullName":"API REST",
+    "text":"Je suis capable de créer et d'utiliser des API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...)."}
+]

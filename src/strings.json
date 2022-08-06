@@ -1,0 +1,27 @@
+{
+    "interactivityTip":{
+        "fr":"Conseil: certains éléments sont interactifs (clic dessus)",
+        "en":"Advice: certain elements are interactive (click on it)",
+        "de":"Ratschläge: Bestimmte Elemente sind interaktiv (klicken Sie darauf)"
+    },
+    "name":{
+        "fr":"Noé Juzan",
+        "en":"Noé Juzan",
+        "de":"Noé Juzan"
+    },
+    "dev":{
+        "fr":"Développeur",
+        "en":"Developer",
+        "de":"Entwickler"
+    },
+    "andMuchMore":{
+        "fr":"et bien plus encore!",
+        "en":"and much more!",
+        "de":"und vieles mehr!"
+    },
+    "skillsTitle":{
+        "fr":"Compétences",
+        "en":"Skillset",
+        "de":"Fähigkeiten"
+    }
+}

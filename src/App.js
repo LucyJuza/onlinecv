@@ -7,11 +7,12 @@ import AboutMe from './AboutMe'
 import Langs from './Langs';
 import Experiences from './Experiences';
 import ContactMe from './ContactMe'
+import strings from "./strings.json"
 
 function App() {
   return (
     <div className="App">
-      <span className="tip">Conseil: certains éléments sont interactifs (clic dessus)</span>
+      <span className="tip">{strings.interactivityTip[window.userLang]}</span>
         <Redirect to="/home"/>
         <Route path="/home" component={Home} />
         <Route path="/skills" component={Skills} />

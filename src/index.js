@@ -4,8 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom'
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
+let retrievedLang = /*navigator.language || navigator.userLanguage || */"de"; 
+let userLang = retrievedLang.split("-")[0];
+window.userLang = userLang;
 ReactDOM.render(
   <BrowserRouter>
     <App/>

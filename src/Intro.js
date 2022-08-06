@@ -1,11 +1,13 @@
 import './App.css';
 import { Link } from 'react-router-dom';
+import strings from "./strings.json"
+
 function Intro() {
     return (
         <div className="intro">
             <h1>
-            Noé Juzan,<br/>
-            Développeur full stack...<br/>
+            {strings.name[window.userLang]}<br/>
+            {strings.dev[window.userLang]}...<br/>
             </h1>
             <Link to="/skills">
                 <svg id="fleche" viewBox="0 0 200 100" fill="none" xmlns="http://www.w3.org/2000/svg">
