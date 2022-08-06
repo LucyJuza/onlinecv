@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom'
 
-let retrievedLang = /*navigator.language || navigator.userLanguage || */"de"; 
+let retrievedLang = navigator.language || navigator.userLanguage || "en"; 
 let userLang = retrievedLang.split("-")[0];
 window.userLang = userLang;
 ReactDOM.render(

@@ -1,0 +1,74 @@
+[
+    {"name":"musique",
+    "fullName":{
+        "fr":"Musique",
+        "en":"Music",
+        "de":"Musik"
+    },
+    "text":{
+        "fr":"J'aime beaucoup jouer et écouter de la musique, elle est une grande partie de ma vie. En effet, rares sont les moments où je ne suis pas en train d'écouter quelque chose. J'ai des goûts musicaux très divers, allant de la musique classique au death métal symphonique en passant par le rap, l'électro et la pop.",
+        "en":"I really like to play and listen to music, it is a big part of my life. Indeed, rare are the times when I am not listening to something. I have very diverse musical tastes, ranging from classical music to symphonic death metal including rap, electro and pop.",
+        "de":"Ich spiele und höre sehr gerne Musik, es ist ein großer Teil meines Lebens. Es kommt tatsächlich selten vor, dass ich etwas nicht höre. Ich habe sehr unterschiedliche Musikgeschmäcker, die von klassischer Musik bis hin zu symphonischem Death Metal reichen, einschließlich Rap, Elektro und Pop."
+    }
+    },
+    {"name":"jeux",
+    "fullName":{
+        "fr":"Jeux vidéo",
+        "en":"Video games",
+        "de":"Videospiele"
+    },
+    "text":{
+        "fr":"Depuis mon plus jeune âge j'ai été bercé par les jeux vidéo. En effet, ce sont les jeux vidéo qui m'ont lancé dans le monde de l'informatique et du développement notamment au travers des \"mods\"",
+        "en":"From an early age I was rocked by video games. Indeed, it was video games that launched me into the world of computing and development, particularly through \"mods\"",
+        "de":"Schon früh haben mich Videospiele begeistert. In der Tat waren es Videospiele, die mich in die Welt der Computer und Entwicklung eingeführt haben, insbesondere durch \"Mods\"."
+    }
+    },
+    {"name":"litterature",
+    "fullName":{
+       "fr":"Littérature",
+       "en":"Literature",
+       "de":"Literatur"
+    },
+    "text":{
+        "fr":"J'adore lire, écrire et réciter toutes sortes de textes et j'ai un point faible pour les poèmes en général.",
+        "en":"I love to read, write and recite all kinds of texts and I have a sweet spot for poems in general.",
+        "de":"Ich liebe es, Texte aller Art zu lesen, zu schreiben und zu rezitieren und habe allgemein eine Schwäche für Gedichte."
+    }
+    },
+    {"name":"programmation",
+    "fullName":{
+        "fr":"Programmation",
+        "en":"Programming",
+        "de":"Programmierung"
+    },
+    "text":{
+        "fr":"Depuis tout petit, j'ai toujours été en train de bidouiller du code informatique, soit par les mods pour les jeux vidéo où pour automatiser des processus répétitifs, la programmation occupe une place importante de ma vie. (d'ailleurs ce site a été réalisé entièrement par mes soins).",
+        "en":"From a very young age, I have always been tinkering with computer code, either through mods for video games or to automate repetitive processes, programming occupies an important place in my life. (moreover, this site was created entirely by me).",
+        "de":"Schon in jungen Jahren habe ich immer an Computercode herumgebastelt, entweder durch Mods für Videospiele oder um sich wiederholende Prozesse zu automatisieren, das Programmieren nimmt einen wichtigen Platz in meinem Leben ein. (Außerdem wurde diese Seite vollständig von mir erstellt)."
+    }
+    },
+    {"name":"technologie",
+    "fullName":{
+        "fr":"Nouvelles Technologies",
+        "en":"New technologies",
+        "de":"Neue Technologien"
+    },
+    "text":{
+        "fr":"Je m'intéresse beaucoup aux innovations et aux nouvelles technologies. Je suis toujours à la recherche de technologies innovantes ou avec un très gros potentiel. Notamment dans l'open source.",
+        "en":"I am very interested in innovations and new technologies. I am always on the lookout for innovative technologies or technologies with great potential. Especially in open source.",
+        "de":"Ich interessiere mich sehr für Innovationen und neue Technologien. Ich bin immer auf der Suche nach innovativen Technologien oder Technologien mit großem Potenzial. Vor allem im Open-Source-Bereich."
+    }
+    },
+    {"name":"jdr",
+    "fullName":{
+        "fr":"Jeux de Rôles",
+        "en":"Roleplaying games",
+        "de":"Rollenspiele"
+    },
+    "text":{
+        "fr":"Un de mes hobbys est aussi de participer à et/ou créer des campagnes de jeux de rôle. Mes univers de prédilection sont le médiéval-fantastique et la science-fiction. C'est un hobby qui m'a permis de développer mon imagination et mes talents de résolution de problèmes.",
+        "en":"One of my hobbies is also to participate in and/or create role-playing campaigns. My favorite universes are medieval fantasy and science fiction. It's a hobby that allowed me to develop my imagination and my problem-solving skills.",
+        "de":"Eines meiner Hobbys ist es auch, an Rollenspielkampagnen teilzunehmen und/oder diese zu erstellen. Meine Lieblingsuniversen sind mittelalterliche Fantasy und Science-Fiction. Es ist ein Hobby, das es mir ermöglichte, meine Vorstellungskraft und meine Fähigkeiten zur Problemlösung zu entwickeln."
+    }
+    }
+]

@@ -76,24 +76,69 @@
         "de":"Linux-Administration"
     },
     "text":{
-        "fr":"Je suis capable de réaliser des tâches d'administration sur des environnements Linux (plus familier avec les distributions type \"Debian\"). Je suis aussi capable d'installer des distributions sur du matériel informatique.",
-        "en":"",
-        "de":""
+        "fr":"Je suis capable de réaliser des tâches d'administration sur des environnements Linux (plus familier avec les distributions type \"Debian\" et \"Arch\"). Je suis aussi capable d'installer des distributions sur du matériel informatique.",
+        "en":"I am able to perform administrative tasks on Linux environments (more familiar with distributions such as \"Debian\" and \"Arch\"). I am also able to install distributions on hardware.",
+        "de":"Ich bin in der Lage, administrative Aufgaben in Linux-Umgebungen auszuführen (besser vertraut mit Distributionen wie \"Debian\" und \"Arch\"). Ich bin auch in der Lage, Distributionen auf Computerhardware zu installieren."
     }
     },
     {"name":"mongo",
-    "fullName":"MongoDB",
-    "text":"Je suis capable de mettre en place et d'intéragir avec une base de données MongoDB."},
+    "fullName":{
+        "fr":"MongoDB",
+        "en":"MongoDB",
+        "de":"MongoDB"
+    },
+    "text":{
+        "fr":"Je suis capable de mettre en place et d'intéragir avec une base de données MongoDB.",
+        "en":"I am able to set up and interact with a MongoDB database.",
+        "de":"Ich bin in der Lage, eine MongoDB-Datenbank einzurichten und mit ihr zu interagieren."
+    }
+    },
     {"name":"nutanix",
-    "fullName":"Nutanix",
-    "text":"Je suis capable de mettre en place et d'administrer un ou plusieurs clusters Nutanix AOS."},
+    "fullName":{
+        "fr":"Nutanix",
+        "en":"Nutanix",
+        "de":"Nutanix"
+    },
+    "text":{
+        "fr":"Je suis capable de mettre en place et d'administrer un ou plusieurs clusters Nutanix AOS.",
+        "en":"I am able to set up and administer one or more Nutanix AOS clusters.",
+        "de":"Ich bin in der Lage, einen oder mehrere Nutanix AOS-Cluster einzurichten und zu verwalten."
+        }
+    },
     {"name":"sql",
-    "fullName":"SQL",
-    "text":"Je suis capable de réaliser des requêtes sur une base de données grâce à SQL."},
+    "fullName":{
+        "fr":"SQL",
+        "en":"SQL",
+        "de":"SQL"
+    },
+    "text":{
+        "fr":"Je suis capable de réaliser des requêtes sur une base de données grâce à SQL.",
+        "en":"I am able to perform queries on a database using SQL.",
+        "de":"Ich bin in der Lage, Abfragen in einer Datenbank mit SQL durchzuführen."
+    }
+    },
     {"name":"git",
-    "fullName":"Git",
-    "text":"Je suis capable de collaborer avec d'autres dévelopeurs grâce à Git, GitHub et GitLAB."},
+    "fullName":{
+        "fr":"Git",
+        "en":"Git",
+        "de":"Git"
+    },
+    "text":{
+        "fr":"Je suis capable de collaborer avec d'autres développeurs grâce à Git, GitHub et GitLAB.",
+        "en":"I am able to collaborate with other developers using to Git, GitHub and GitLAB.",
+        "de":"Ich kann mit anderen Entwicklern zusammenarbeiten, die Git, GitHub und GitLAB verwenden."
+    }},
     {"name":"rest",
-    "fullName":"API REST",
-    "text":"Je suis capable de créer et d'utiliser des API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...)."}
+    "fullName":{
+        "fr":"API REST",
+        "en":"REST API",
+        "de":"REST-API"
+    
+    },
+    "text":{
+        "fr":"Je suis capable de créer et d'utiliser des API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...).",
+        "en":"I am able to create and use REST APIs with the different standard HTTP methods (GET, POST, DELETE, etc...).",
+        "de":"Ich bin in der Lage, REST-Typ-APIs mit den verschiedenen Standard-HTTP-Methoden (GET, POST, DELETE usw...) zu erstellen und zu verwenden."
+    }
+    }
 ]

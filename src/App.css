@@ -84,3 +84,6 @@ body{
     height: 10vmin;
   }
 }
+a>img{
+  max-width: 100%;
+}

@@ -23,5 +23,45 @@
         "fr":"Compétences",
         "en":"Skillset",
         "de":"Fähigkeiten"
+    },
+    "languages":{
+        "fr":"Langues",
+        "en":"Languages",
+        "de":"Sprachen"
+    },
+    "hobbiesTitle":{
+        "fr":"Apprenez à me connaître!",
+        "en":"Get to know me!",
+        "de":"Mich kennenlernen!"
+    },
+    "hobbiesSubTitle":{
+        "fr":"Centres d'intérêts",
+        "en":"Interests",
+        "de":"Interessen"
+    },
+    "ExperiencesTitle":{
+        "fr":"Ils m'ont déjà fait confiance!",
+        "en":"They already trusted me!",
+        "de":"Sie haben mir bereits vertraut!"
+    },
+    "ExperiencesSubtitle":{
+        "fr":"Expériences",
+        "en":"Experiences",
+        "de":"Erfahrungen"
+    },
+    "JobDescription":{
+        "fr":"Description du poste",
+        "en":"Job Description",
+        "de":"Jobbeschreibung"
+    },
+    "JobRecomendation":{
+        "fr":"Recommandation du responsable",
+        "en":"Manager recommendation",
+        "de":"Empfehlung des Managers"
+    },
+    "contactMe":{
+        "fr":"Alors contactez-moi!",
+        "en":"Then contact me!",
+        "de":"Dann kontaktieren Sie mich!"
     }
 }
