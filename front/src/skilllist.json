@@ -6,7 +6,7 @@
         "de":"HTML"
         },
     "text":{
-        "fr":"Je suis capable de réaliser le \"corps\" et l'architecture d'un site web avec la technologie HTML (Maîtrise du DOM et des balises).",
+        "fr":"Réalisation du \"corps\" et de l'architecture d'un site web avec la technologie HTML (Maîtrise du DOM et des balises).",
         "en":"I am able to make the \"body\" and the architecture of a website with HTML technology (mastery of DOM and tags).",
         "de":"Ich kann den \"Körper\" und die Architektur einer Website mit HTML-Technologie (Meisterschaft von DOM und Tags) herstellen."
         }
@@ -18,7 +18,7 @@
         "de":"CSS"
         },
     "text":{
-        "fr":"Je suis capable d'ajouter des éléments de design à une page web au travers de la technologie CSS, Je suis aussi capable de concevoir un site de sorte qu’il soit \"responsive\" (adaptatif) sur tous les supports (PC, mobile, tablette)",
+        "fr":"Capacité d'ajouter des éléments de design à une page web au travers de la technologie CSS. De plus, il m'est possible de concevoir un site de sorte qu’il soit \"responsive\" (adaptatif) sur tous les supports (PC, mobile, tablette)",
         "en":"I am able to add design elements to a web page through CSS technology, I am also able to design a site so that it is responsive on all supports (PC, mobile, tablet)",
         "de":"Ich kann eine Webseite über die CSS -Technologie Designelemente hinzufügen. Ich kann auch eine Site so entwerfen, dass sie auf allen Unterstützung (PC, Mobile, Tablet) \"responsive\" (adaptiv) ist."
         }
@@ -30,9 +30,9 @@
         "de":"JavaScript"
     },
     "text":{
-        "fr":"Je suis capable d'ajouter des éléments de dynamisme à une page web au travers de la technologie JavaScript. Je suis aussi capable d'implémenter les frameworks et librairies communes du web (ce site est d'ailleurs réalisé avec ReactJS). (Front End)",
-        "en":"I am able to add elements of dynamism to a web page through JavaScript technology. I am also able to implement the common web frameworks and libs (this site is also carried out with Reactjs). (End Front)",
-        "de":"Ich kann einer Webseite über JavaScript -Technologie Elemente der Dynamik zu einer Webseite hinzufügen. Ich kann auch die gemeinsamen Webrahmen und Buchhandlungen implementieren (diese Website wird auch mit ReactJs durchgeführt). (Ende vorne)"
+        "fr":"Ajout des éléments de dynamisme à une page web au travers de la technologie JavaScript.Ainsi que l'implémentation les frameworks et librairies communes du web. (Ce site est d'ailleurs réalisé avec ReactJS(Front End)) ",
+        "en":"I am able to add elements of dynamism to a web page through JavaScript technology. I am also able to implement the common web frameworks and libs (this site is also carried out with Reactjs). (Front End)",
+        "de":"Ich kann einer Webseite über JavaScript -Technologie Elemente der Dynamik zu einer Webseite hinzufügen. Ich kann auch die gemeinsamen Webrahmen und Buchhandlungen implementieren (diese Website wird auch mit ReactJs durchgeführt). (Front End)"
         }
     },
     {"name":"nodejs",
@@ -42,7 +42,7 @@
         "de":"Node.js"
     },
     "text":{
-        "fr":"Je suis capable de créer des serveurs web et des API ainsi que servir du contenu avec la technologie Node.js. (Back end)",
+        "fr":"Création de serveurs web et des API ainsi que servir du contenu avec la technologie Node.js. (Back end)",
         "en":"I am able to create web servers and APIs as well as serve content with Node.js. (Back end)",
         "de":"Ich kann Webserver und APIs erstellen und Inhalte mit Node.js. servieren. (Back End)"
         }
@@ -54,7 +54,7 @@
         "de":"Docker / Behälter"
     },
     "text":{
-        "fr":"Je suis capable d'utiliser l'utilitaire Docker pour créer des conteneurs de mes applications ou adapter des applications ou des solutions existantes en version conteneurisée. Je suis aussi capable d'orchestrer l'inter-connectivité de ces conteneurs ensemble (docker-compose).",
+        "fr":"Uilisation de l'utilitaire Docker pour créer des conteneurs de mes applications ou adapter des applications ou des solutions existantes en version conteneurisée. Ansi que l'orchestration de l'inter-connectivité de ces conteneurs ensemble (docker-compose).",
         "en":"I am able to use the Docker utility to create containers of my applications or adapt existing applications or solutions in containerized version. I am also capable of orchestrating the interconnectivity of these containers together (Docker-compose).",
         "de":"Ich kann das Docker-Dienstprogramm verwenden, um Container meiner Anwendungen zu erstellen oder vorhandene Anwendungen oder Lösungen in Containerversion anzupassen. Ich bin auch in der Lage, die Interkonnektivität dieser Container zusammen zu orchestrieren (Docker-Compose)."
         }},
@@ -65,7 +65,7 @@
         "de":"Node-RED"
     },
     "text":{
-        "fr":"Je suis capable de créer des \"Flows\" de traitement avec Node-RED. Je suis aussi capable de créer des tableaux de bord avec des formulaires interactifs.",
+        "fr":"Création de \"Flows\" de traitement avec Node-RED. Ainsi que la création de tableaux de bord avec des formulaires interactifs.",
         "en":"I am able to create \"flows\" treatment with Node-Red. I am also able to create dashboards with interactive forms.",
         "de":"Ich kann \"Flows\"-Behandlung mit Node-Rot erstellen. Ich kann auch Dashboards mit interaktiven Formen erstellen."
     }},
@@ -76,7 +76,7 @@
         "de":"Linux-Administration"
     },
     "text":{
-        "fr":"Je suis capable de réaliser des tâches d'administration sur des environnements Linux (plus familier avec les distributions type \"Debian\" et \"Arch\"). Je suis aussi capable d'installer des distributions sur du matériel informatique.",
+        "fr":"Réalisation de tâches d'administration sur des environnements Linux (plus familier avec les distributions type \"Debian\" et \"Arch\"). Ainsi que l'installation de distributions sur du matériel informatique.",
         "en":"I am able to perform administrative tasks on Linux environments (more familiar with distributions such as \"Debian\" and \"Arch\"). I am also able to install distributions on hardware.",
         "de":"Ich bin in der Lage, administrative Aufgaben in Linux-Umgebungen auszuführen (besser vertraut mit Distributionen wie \"Debian\" und \"Arch\"). Ich bin auch in der Lage, Distributionen auf Computerhardware zu installieren."
     }
@@ -88,7 +88,7 @@
         "de":"MongoDB"
     },
     "text":{
-        "fr":"Je suis capable de mettre en place et d'intéragir avec une base de données MongoDB.",
+        "fr":"Mise en place et intéraction avec une base de données MongoDB.",
         "en":"I am able to set up and interact with a MongoDB database.",
         "de":"Ich bin in der Lage, eine MongoDB-Datenbank einzurichten und mit ihr zu interagieren."
     }
@@ -100,7 +100,7 @@
         "de":"Nutanix"
     },
     "text":{
-        "fr":"Je suis capable de mettre en place et d'administrer un ou plusieurs clusters Nutanix AOS.",
+        "fr":"Mise en place et administration d'un ou plusieurs clusters Nutanix AOS.",
         "en":"I am able to set up and administer one or more Nutanix AOS clusters.",
         "de":"Ich bin in der Lage, einen oder mehrere Nutanix AOS-Cluster einzurichten und zu verwalten."
         }
@@ -112,7 +112,7 @@
         "de":"SQL"
     },
     "text":{
-        "fr":"Je suis capable de réaliser des requêtes sur une base de données grâce à SQL.",
+        "fr":"Réalisation de requêtes sur une base de données grâce à SQL.",
         "en":"I am able to perform queries on a database using SQL.",
         "de":"Ich bin in der Lage, Abfragen in einer Datenbank mit SQL durchzuführen."
     }
@@ -124,7 +124,7 @@
         "de":"Git"
     },
     "text":{
-        "fr":"Je suis capable de collaborer avec d'autres développeurs grâce à Git, GitHub et GitLAB.",
+        "fr":"Collaboration avec d'autres développeurs grâce à Git, GitHub et GitLAB.",
         "en":"I am able to collaborate with other developers using to Git, GitHub and GitLAB.",
         "de":"Ich kann mit anderen Entwicklern zusammenarbeiten, die Git, GitHub und GitLAB verwenden."
     }},
@@ -136,7 +136,7 @@
     
     },
     "text":{
-        "fr":"Je suis capable de créer et d'utiliser des API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...).",
+        "fr":"Création et d'utilisation d'API de type REST avec les différentes méthodes HTTP standards (GET, POST, DELETE, etc...).",
         "en":"I am able to create and use REST APIs with the different standard HTTP methods (GET, POST, DELETE, etc...).",
         "de":"Ich bin in der Lage, REST-Typ-APIs mit den verschiedenen Standard-HTTP-Methoden (GET, POST, DELETE usw...) zu erstellen und zu verwenden."
     }
