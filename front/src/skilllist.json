@@ -65,7 +65,7 @@
         "de":"Node-RED"
     },
     "text":{
-        "fr":"Création de \"Flows\" de traitement avec Node-RED. Ainsi que la création de tableaux de bord avec des formulaires interactifs.",
+        "fr":"Création de \"Flux\" de traitement avec Node-RED. Ainsi que la création de tableaux de bord avec des formulaires interactifs.",
         "en":"I am able to create \"flows\" treatment with Node-Red. I am also able to create dashboards with interactive forms.",
         "de":"Ich kann \"Flows\"-Behandlung mit Node-Rot erstellen. Ich kann auch Dashboards mit interaktiven Formen erstellen."
     }},
