@@ -6,9 +6,14 @@
   background: #8f8f8fc7;
   border-radius: 10px;
 }
-
 body{
   background-color: #282c34;
+}
+h1{
+  margin-bottom: 2px;
+}
+h2{
+  margin-top: 2px;
 }
 .App {
   text-align: center;
@@ -78,11 +83,6 @@ body{
   right: 0;
   color: rgba(255, 255, 255, 0.548);
   font-size: 12px;
-}
-@media screen and (max-width: 800px) {
-  .intro #fleche{
-    height: 10vmin;
-  }
 }
 a>img{
   max-width: 100%;

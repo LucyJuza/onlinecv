@@ -11,7 +11,7 @@
     }
 }
 #fleche{
-    height: 5vmin;
+    height: 8vh;
     width: 100%;
 }
 #arrow:hover{
@@ -50,7 +50,7 @@ canvas {
     display: block;
 }
 .contComp{
-    margin: 2%;
+    margin-top: 2%;
     display: flex;
     flex-flow:row wrap;
     justify-content: center;
@@ -70,7 +70,7 @@ canvas {
     height: 100%;
 }
 .skillWrap{
-    flex: 1 1 16%;
+    flex: 1 1 15%;
     margin: 5px;
     max-height: 180px;
     text-align: center;
