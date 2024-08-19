@@ -6,14 +6,14 @@
         "de":"AKGWS"
     },
     "desc":{
-        "fr":"La Caisse de Compensation du Canton du Valais est une entreprise active dans le domaine du versement des allocations (AVS,AI,APG,AF, etc...). Lors de mon passage dans l'entreprise j'ai été affecté au département IT et ait réalisé de nombreuses tâches de support informatiques. (dépannages, opération d'imprimantes industrielles, remontée de bugs, etc...).",
+        "fr":"La Caisse de Compensation du Canton du Valais est une entreprise active dans le domaine du versement des allocations (AVS,AI,APG,AF, etc...). Lors de mon passage dans l'entreprise j'ai été affectée au département IT et ait réalisé de nombreuses tâches de support informatiques. (dépannages, opération d'imprimantes industrielles, remontée de bugs, etc...).",
         "en":"The Caisse de Compensation du Canton du Valais is a company working in the field of the payment of allowances (AVS, AI, APG, AF, etc.). During my time in the company, I was assigned to the IT department and carried out numerous IT support tasks. (troubleshooting, operation of industrial printers, reporting bugs, etc.).",
         "de":"Die Caisse de Compensation du Canton du Valais ist eine Gesellschaft, die im Bereich der Auszahlung von Zulagen (AVS, AI, APG, AF usw.) tätig ist. Während meiner Zeit im Unternehmen war ich der IT-Abteilung zugeteilt und habe zahlreiche IT-Support-Aufgaben durchgeführt. (Fehlerbehebung, Betrieb von Industriedruckern, Melden von Fehlern usw.)."
     },
     "reco":{
-        "fr":"Lors de son passage Noé s'est montré capable d'une remarquable capacité d'adaptation. Bien qu'il soit meilleur en développement il s'est montré capable d'une capacité d'adaptation impressionnante lors des tâches qui relevaient plus du domaine \"Système\".",
-        "en":"During his visit, Noé showed himself capable of a remarkable capacity for adaptation. Although he is better in development, he has shown himself to be capable of an impressive capacity for adaptation during tasks which were more of a \"System\" domain.",
-        "de":"Bei seinem Besuch zeigte sich Noé zu einer bemerkenswerten Anpassungsfähigkeit fähig. Obwohl er in der Entwicklung besser ist, hat er gezeigt, dass er eine beeindruckende Anpassungsfähigkeit bei Aufgaben hat, die eher eine „System“-Domäne waren."
+        "fr":"Lors de son passage Lucie s'est montrée capable d'une remarquable capacité d'adaptation. Bien qu'elle soit meilleure en développement elle s'est montrée capable d'une capacité d'adaptation impressionnante lors des tâches qui relevaient plus du domaine \"Système\".",
+        "en":"During her visit, Lucie showed herself capable of a remarkable capacity for adaptation. Although she is best at programming, she has shown herself to be capable of an impressive capacity for adaptation during tasks which were more of a \"System\" domain.",
+        "de":"Bei seinem Besuch zeigte sich Lucie zu einer bemerkenswerten Anpassungsfähigkeit fähig. Obwohl er in der Entwicklung besser ist, hat sie gezeigt, dass sie eine beeindruckende Anpassungsfähigkeit bei Aufgaben hat, die eher eine „System“-Domäne waren."
     }
     },
     {"name":"altis",
@@ -23,7 +23,7 @@
         "de":"ALTIS Gruppe AG"
     },
     "desc":{
-        "fr":"ALTIS Groupe SA est une entreprise active dans le domaine de l'eau, du chauffage et de l'électricité. Lors de mon passage dans l'entreprise j'ai été affecté au poste de développeur et ai pu collaborer sur des projets du domaine de l'IOT et du développement Web. J'ai aussi développé mes compétences de conteneurisation, d'administration linux et d'opération de machines virtuelles avec Nutanix.",
+        "fr":"ALTIS Groupe SA est une entreprise active dans le domaine de l'eau, du chauffage et de l'électricité. Lors de mon passage dans l'entreprise j'ai été affectée au poste de développeuse et ai pu collaborer sur des projets du domaine de l'IOT et du développement Web. J'ai aussi développé mes compétences de conteneurisation, d'administration linux et d'opération de machines virtuelles avec Nutanix.",
         "en":"ALTIS Groupe SA is a company active in the field of water, heating and electricity. During my time in the company I was assigned to the position of developer and was able to collaborate on projects in the field of IOT and Web development. I also developed my skills in containerization, linux administration and virtual machine operation with Nutanix.",
         "de":"ALTIS Groupe SA ist ein Unternehmen, das im Bereich Wasser, Heizung und Strom tätig ist. Während meiner Zeit im Unternehmen war ich in der Position des Entwicklers eingesetzt und konnte an Projekten im Bereich IOT und Webentwicklung mitarbeiten. Ich habe auch meine Fähigkeiten in Containerisierung, Linux-Administration und Betrieb virtueller Maschinen mit Nutanix entwickelt."
     },
